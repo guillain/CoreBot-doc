@@ -5,19 +5,19 @@
 0. [README](./README.md)
 
 1. GetStarted
-  1. [logic](./logic.md)
-  2. [installation](./installation.md)
-  3. [configuration](./configuration.md)
+  - [logic](./logic.md)
+  - [installation](./installation.md)
+  - [configuration](./configuration.md)
 
 2. Component explanation
-  1. [controller](./controller.md)
-  2. [launcher](./launcher.md)
+  - [controller](./controller.md)
+  - [launcher](./launcher.md)
 
 3. Features
-  1. [add new](./add_new.md)
-  2. [library](./library.md)
-  3. [security](./security.md)
-  4. [ToDo](./ToDo.md)
+  - [add new](./add_new.md)
+  - [library](./library.md)
+  - [security](./security.md)
+  - [ToDo](./ToDo.md)
 
 
 ## CoreBot structure
